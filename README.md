@@ -1,4 +1,4 @@
-📘 C Programming – Indicator
+<h2>📘 C Programming – Indicator </h2>
 
 onlineGDB : https://onlinegdb.com/3xnzwZjOv_
 
@@ -8,7 +8,7 @@ This project contains two C programs demonstrating the use of pointers, arrays, 
 
 🧩 Programs Included
 
-🔹 Q1: String Length Using Pointer
+<h4>🔹 Q1: String Length Using Pointer </h4>
 
 onlineGDB : https://onlinegdb.com/U3HbOXaXD
 
@@ -29,7 +29,7 @@ Length is counted manually
 Enter any string: Hello World
 The length of a string is: 11
 
-🔹 Q2: Cube of 2D Array Elements Using Pointer
+<h4>🔹 Q2: Cube of 2D Array Elements Using Pointer </h4>
 
 onlineGDB : https://onlinegdb.com/Ix7pfwLCe
 
