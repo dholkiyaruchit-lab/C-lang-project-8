@@ -1,6 +1,6 @@
 <h2>📘 C Programming – Indicator </h2>
 
-onlineGDB : https://onlinegdb.com/3xnzwZjOv_
+onlineGDB : <a herf="https://onlinegdb.com/3xnzwZjOv_" target="_blank">link</a>
 
 📌 Overview
 
